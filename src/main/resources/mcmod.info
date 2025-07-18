@@ -1,0 +1,19 @@
+[
+	{
+		"modid": "smoothbootlegacy",
+		"name": "SmoothBoot Legacy",
+		"description": "Smoothboot for legacy Minecraft",
+		"version": "${mod_version}",
+		"mcversion": "${mcversion}",
+		"url": "",
+		"updateUrl": "",
+		"authorList": [
+			"shirokuma"
+		],
+		"logoFile": "icon.png",
+		"screenshots": [
+		],
+		"dependencies": [
+		]
+	}
+]

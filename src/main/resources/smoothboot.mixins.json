@@ -1,0 +1,10 @@
+{
+	"required": true,
+	"package": "com.ultimateboomer.smoothboot.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "smoothboot.refmap.json",
+	"mixins": [
+		"client.MainMixin"
+	],
+	"minVersion": "0.8"
+}
